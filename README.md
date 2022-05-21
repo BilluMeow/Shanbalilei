@@ -1,37 +1,39 @@
 # Shanbalilei
-A Machine Learning Library written in C++
 
+-> A Machine Learning Library written in C++
+-> By Syed Abeer Hussain, BilluMeow
+-> Co-Owners : Wasif Khan, Khubaib Alam
 
 To Run :
 
 g++ -o main DecisionTree.cpp  MachineLearningModel.cpp Shanbalilei.cpp LogisticRegression.cpp KNearestNeighbour.cpp  main.cpp
 ./main
 
-    # Functionalities:
+# Functionalities:
     
-    ## ML Models:
-          ### Decision Tree
-          ### Logistic Regression
-          ### Linear Regression
-          ### K Nearest Neighbour
+## ML Models:
+   ### Decision Tree
+   ### Logistic Regression
+   ### Linear Regression
+   ### K Nearest Neighbour
 
-    ## Extracting Trained Model into a File
+## Extracting Trained Model into a File
   
-    ## Reading From csv
-    ## Handling String data
-    ## Partitioning Data
+## Reading From csv
+## Handling String data
+## Partitioning Data
     
-    ## Feature Manipulation & Things:
-          ### Mean
-          ### Standard Deviation
-          ### Minimum
-          ### Maximum
-          ### Normalization
-          ### Standardization
-          ### Feature Removal
+## Feature Manipulation & Things:
+   ### Mean
+   ### Standard Deviation
+   ### Minimum
+   ### Maximum
+   ### Normalization
+   ### Standardization
+   ### Feature Removal
 
-    ## Accuracy Checker
-    ## Root Mean Square Calculator
+## Accuracy Checker
+## Root Mean Square Calculator
 
-    ## Generalized Artitechture
-    ## Can Create and implement new Models very Easily
+## Generalized Artitechture
+## Can Create and implement new Models very Easily
