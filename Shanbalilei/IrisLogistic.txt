@@ -1,0 +1,3 @@
+//Last Weight is the Biased Weight & The Next Line is Threshold :)
+0.5
+{ -0.000238857, 9.97143e-05, 0.000346571, 5.17143e-05, -1.42857e-06}

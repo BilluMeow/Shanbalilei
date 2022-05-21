@@ -1,0 +1,13 @@
+float Predict(vector <float> Row){
+	if(Row[0] == 2.000000){
+		return 1;
+	}
+	else{
+		if(Row[0] == 1.000000){
+			return 0;
+		}
+		else{
+			return 0;
+		}
+	}
+}
