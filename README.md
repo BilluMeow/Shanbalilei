@@ -2,7 +2,7 @@
 
 -> A Machine Learning Library written in C++
 -> By Syed Abeer Hussain, BilluMeow
--> Co-Owners : Wasif Khan, Khubaib Alam
+-> Co-Owners : Wasif Khan, Khubaib Alam, Ayesha Anwar, S. Baqar Ali Zaidi, S.M. Mohtashim Ahsan
 
 To Run :
 
